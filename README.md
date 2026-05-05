@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a second-year B.Tech student in AI and Data Science specializing in Medical Engineering, I'm deeply passionate about technology, data analytics and innovation. Proficient in python programming language and MATLAB. Currently building hands-on skills in machine learning, data analytics, signal processing and AWS. Alongside my technical interests, I actively develop skills in public speaking, leadership and diplomacy. <br>Looking forward to learning, collaborating, and contributing to projects that will shape the future of tech, healthcare, and beyond!
+As a second-year B.Tech student in AI and Data Science, I'm deeply passionate about technology, data analytics and innovation. Proficient in python programming language and MATLAB. Currently building hands-on skills in machine learning, data analytics, signal processing and AWS. Alongside my technical interests, I actively develop skills in public speaking, leadership and diplomacy. <br>Looking forward to learning, collaborating, and contributing to projects that will shape the future of tech, healthcare, and beyond!
 
 
 ## 🌐 Socials:
