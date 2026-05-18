@@ -50,7 +50,7 @@
 <br>
 
 <p align="center">
-  <img src="./thatsall.jpg" alt="That's all folks!" width="100" />
+  <img src="./thatsall.jpg" alt="That's all folks!" width="150" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
