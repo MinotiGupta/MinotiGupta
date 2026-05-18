@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  I’m a pre-final year B.Tech student in Artificial Intelligence and Data Science with a strong interest in building and deploying. So far, I’ve developed full-stack applications, published a research paper, and am currently working on several more research initiatives. Currently, I’m interning at EnergyETA as an AI Application Software Intern, where I work on developing daily visual reporting systems and energy analytics solutions. Beyond academics, I thrive in environments that challenge me to grow as a person. I actively participate in multiple student clubs and communities on campus and love meeting people. I’m deeply passionate about public speaking, leadership, diplomacy, and continuous learning. 
+  I’m a pre-final year B.Tech student in Artificial Intelligence and Data Science with a strong interest in building and deploying. So far, I’ve developed full-stack applications, published a research paper, and am currently working on more research initiatives. Currently, I’m interning as an AI Application Software Intern, where I work on developing daily visual reporting systems and energy analytics solutions. I’m deeply passionate about public speaking, leadership, diplomacy, and continuous learning. 
 </p>
 
 ### 🛠️ Tech Stack
