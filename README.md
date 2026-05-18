@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B5A0D8&center=true&vCenter=true&width=700&lines=If+not+now%2C+when%3F+" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>Pre-final year B.Tech student in <strong>Artificial Intelligence & Data Science</strong></em>
-</p>
+</p> -->
 
 <p align="center">
-  I've shipped full-stack applications, published research, and I'm currently an <strong>AI Application Software Intern at EnergyETA</strong> working on daily visual reporting systems and energy analytics.
+  I’m a pre-final year B.Tech student in Artificial Intelligence and Data Science with a strong interest in building and deploying. So far, I’ve developed full-stack applications, published a research paper, and am currently working on several more research initiatives. Currently, I’m interning at EnergyETA as an AI Application Software Intern, where I work on developing daily visual reporting systems and energy analytics solutions. Beyond academics, I thrive in environments that challenge me to grow as a person. I actively participate in multiple student clubs and communities on campus and love meeting people. I’m deeply passionate about public speaking, leadership, diplomacy, and continuous learning. 
 </p>
 
 ### 🛠️ Tech Stack
@@ -50,7 +50,7 @@
 <br>
 
 <p align="center">
-  <img src="./thatsall.jpg" alt="That's all folks!" width="150" />
+  <img src="./thatsall.jpg" alt="That's all folks!" width="200" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
