@@ -1,6 +1,6 @@
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B5A0D8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Minoti+%F0%9F%91%8B;AI+%26+Data+Science+Explorer;Builder+%7C+Researcher+%7C+Speaker" alt="Typing SVG" />
-</h1> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B5A0D8&center=true&vCenter=true&width=700&lines=If+not+now%2C+when%3F+" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <em>Pre-final year B.Tech student in <strong>Artificial Intelligence & Data Science</strong></em>
