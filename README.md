@@ -47,10 +47,10 @@
 </details>
 -->
 
-<br>
+<!-- <br>
 
 <p align="center">
   <img src="./thatsall.jpg" alt="That's all folks!" width="200" />
-</p>
+</p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
