@@ -13,12 +13,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MinotiGupta&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinotiGupta&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
-
+<!--
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MinotiGupta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+--> 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MinotiGupta&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinotiGupta&layout=compact&theme=github_dark)
-
+<!--
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MinotiGupta&layout=compact&theme=github_dark)
+--> 
 <!--
 ### 🛠️ Tech Stack
 
