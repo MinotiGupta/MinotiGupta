@@ -13,7 +13,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MinotiGupta&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MinotiGupta)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinotiGupta&show_icons=true&count_private=true&include_all_commits=true)
 
+<!--
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
@@ -31,3 +33,4 @@
 #### 🛠️ Tools
 <img src="https://img.shields.io/badge/Git-fde8e0?style=for-the-badge&logo=git&logoColor=F05033" /> <img src="https://img.shields.io/badge/Docker-d4eeff?style=for-the-badge&logo=docker&logoColor=0db7ed" /> <img src="https://img.shields.io/badge/Linux-f0f0f0?style=for-the-badge&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/Postman-fce8d5?style=for-the-badge&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/VS%20Code-d5e8fc?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /> <img src="https://img.shields.io/badge/Vercel-e8e8e8?style=for-the-badge&logo=vercel&logoColor=333333" /> <img src="https://img.shields.io/badge/GitHub%20Actions-d5e0fc?style=for-the-badge&logo=githubactions&logoColor=2671E5" />
 
+-->
