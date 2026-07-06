@@ -10,6 +10,10 @@
   I’m a pre-final year B.Tech student in Artificial Intelligence and Data Science with a strong interest in building and deploying. So far, I’ve developed full-stack applications, published a research paper, and am currently working on more research initiatives. Currently, I’m interning as an AI Application Software Intern, where I work on developing daily visual reporting systems and energy analytics solutions. I’m deeply passionate about public speaking, leadership, diplomacy, and continuous learning. 
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MinotiGupta&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MinotiGupta)](https://git.io/streak-stats)
+
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
